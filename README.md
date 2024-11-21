@@ -8,7 +8,7 @@ Descubra todas as 10 torradas e vença elas até o nível 54!
 
 Baixe como zip
 
-Instale a extensão pygame
+Instale a extensão pygame no Vscode
 
 Extraia o zip Pato vs. Torrada, você criará uma pasta
 
