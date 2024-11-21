@@ -10,9 +10,9 @@ Baixe como zip
 
 Instale a extensão pygame no Vscode
 
-Extraia o zip Pato vs. Torrada, você criará uma pasta
+Extraia o zip Pato vs. Torrada, você criará uma pasta, ela se chamara pato-main
 
-Dentro dessa pasta você encontrará a pasta pato-main
+Dentro dessa pasta você encontrará mais uma pasta pato-main
 
 Dentro da pato-main encontre a Pato vs. Torrada, esta que você irá abrir no Vscode
 
