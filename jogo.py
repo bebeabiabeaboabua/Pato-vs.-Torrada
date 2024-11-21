@@ -443,7 +443,7 @@ def acao_botao_2():
 #---------------------------------------------------------------------------------------
 
 def acao_botao_3():
-    global patocoins, custo_botao_3, dano, danoclique, mousedesenho, danoclique_interval, mostrar_mouse_desenho  # Certifique-se de que está usando as variáveis globais
+    global patocoins, custo_botao_3, dano, danoclique, danoclique_interval, mostrar_mouse_desenho  # Certifique-se de que está usando as variáveis globais
     if patocoins >= custo_botao_3:  # Verifica se o jogador tem patocoins suficientes
         if patomusculoso not in patos_na_tela:
             patos_na_tela.append(patomusculoso)
@@ -551,8 +551,9 @@ while True:
         elif event.type == pygame.MOUSEBUTTONUP:
             mouse_button_down = False
 
-
-    DISPLAYSURF.blit(mousedesenho, (200, 200))
+        if event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_p:
+                patocoins += 1000000000000
 
     # Atualização do Nível e Estado da Torrada
     if vida == 0:
