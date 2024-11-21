@@ -1,3 +1,5 @@
+# LEIA!!!
+
 # Resumo
 
 **Pato vs. Torrada** é um clicker onde você é um patinho simples e precisa derrotar todas as torradas.
@@ -34,7 +36,10 @@ A cada nível que você sobe, as torradas ficam mais fortes, mas também dão ma
   - Se você conseguir vencê-lo dentro do tempo, avançará para o próximo nível.
   - Se não conseguir matar o boss dentro dos 10 segundos, a vida dele volta a ficar cheia.
     - Aqui você tem a opção de voltar os níveis anteriores e também trancar em um nível específico, para juntar dinheiro e conseguir mais patos para vencer o boss.
+   
+# Cheats
 
+Aperte a tecla "p" para ganhar patocoins
 
 # Ideias futuras:
 - Torradas boss tem armadura contra DPS.
