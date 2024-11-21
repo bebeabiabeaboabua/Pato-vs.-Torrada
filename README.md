@@ -4,7 +4,7 @@
 Compre mais patos para te ajudar e evolua-os!
 Descubra todas as 10 torradas e vença elas até o nível 54!
 
-#Como rodar o jogo no Visual Studio Code
+# Como rodar o jogo no Visual Studio Code
 
 Baixe como zip
 Instale a extensão pygame
