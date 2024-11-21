@@ -4,6 +4,15 @@
 Compre mais patos para te ajudar e evolua-os!
 Descubra todas as 10 torradas e vença elas até o nível 54!
 
+#Como rodar o jogo no Visual Studio Code
+
+Baixe como zip
+Instale a extensão pygame
+Extraia o zip Pato vs. Torrada, você criará uma pasta
+Dentro dessa pasta você encontrará a pasta pato-main
+Dentro da pato-main encontre a Pato vs. Torrada, esta que você irá abrir no Vscode
+Pronto agora é só jogar
+
 # Informações sobre a gameplay
 
 O jogo começa com um pato inicial que dá 1 de dano nas torradas.
